@@ -12,6 +12,8 @@ A list of books and albums that I'd like to read listen to sometime in the hopef
 * **_The Rest is Noise: Listening to the Twentieth Century_ by Alex Ross**
 * **_My Year of Meat_ by Ruth Ozeki**
 * _A Tale for the Time Being_ by Ruth Ozeki
+* _The Power of Habit_ by Charles Duhigg
+* _Deep Work: Rules for Focused Success in a Distracted World_ by Cal Newport
 
 ### [Albums](https://rateyourmusic.com/~shoeman27 "My music ratings page")
 
