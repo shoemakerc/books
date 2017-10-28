@@ -8,9 +8,9 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * ~~_My Year of Meat_ by Ruth Ozeki~~
 * ~~_Colorless Tsukuru Tazaki and His Years of Pilgrimage_ by Haruki Murakami~~
 * **_The Rest is Noise: Listening to the Twentieth Century_ by Alex Ross**
-* **_Moonlight_ by Michael Chabon**
+* ~~_Moonlight_ by Michael Chabon~~
 * _The Defining Decade_ by Meg Jay, Ph.D
-* _Anthem_ by Ayn Rand
+* ~~_Anthem_ by Ayn Rand~~
 * _The Innovators_ by Walter Isaacson
 * _The Jungle_ by Upton Sinclair
 * _State of Wonder_ by Ann Patchett
@@ -33,7 +33,7 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * _Hidden Figures_ by Margot Lee Shetterly
 * _The Bell Jar_ by Sylvia Plath
 * _The Girl with the Dragon Tattoo_ by Stieg Larsson
-* _Kafka on the Shore_ by Haruki Murakami
+* **_Kafka on the Shore_ by Haruki Murakami**
 
 ### [Albums](https://rateyourmusic.com/~shoeman27 "My music ratings page")
 
@@ -45,4 +45,3 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * Vince Staples - _Big Fish Theory_
 * Jaymes Young - _Feel Something_
 * The Killers - _Wonderful Wonderful_
-* 
