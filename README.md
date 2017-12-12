@@ -25,7 +25,7 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * _A Heartbreaking Work of Staggering Genius_ by Dave Eggers
 * _11/22/63_ by Stephen King
 * _The Underground Railroad_ by Colson Whitehead
-* _The Nightingale_ by Kristin Hannah
+* ~~_The Nightingale_ by Kristin Hannah~~
 * _In a Dark, Dark Wood_ by Ruth Ware
 * _Mean Streak_ by Sandra Brown
 * _Journey to Munich_ by Jacqueline Winspear
@@ -33,15 +33,32 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * _Hidden Figures_ by Margot Lee Shetterly
 * _The Bell Jar_ by Sylvia Plath
 * _The Girl with the Dragon Tattoo_ by Stieg Larsson
-* **_Kafka on the Shore_ by Haruki Murakami**
+* _The Good Earth_ by Pearl S. Buck
+* _High Fidelity_ by Nick Hornby
+* ~~_Kafka on the Shore_ by Haruki Murakami~~
+* _After Dark_ by Haruki Murakami
+* _After the Quake_ by Haruki Murakami
+* _Blind Willow, Sleeping Woman_ by Haruki Murakami
+* _The Elephant Vanishes_ by Haruki Murakami
+* _Dance Dance Dance_ by Haruki Murakami
+* _Bonfire_ by Krysten Ritter
+* _The Know-It-Alls: The Rise of Silicon Valley as a Political Powerhouse and Social Wrecking Ball_ by Noam Cohen
+* _Being Mortal_ by Atul Gawande
+* _The Handmaid's Tale_ by Margaret Atwood
+* _The Man in the High Castle_ by Philip K. Dick
+* _One More Thing: Stories and Other Stories_ by B.J. Novak
+* _Fates and Furies_ by Lauren Groff
+* **_Francis of the Filth_ by George Miller**
+* _Hiddensee_ by Gregory Maguire
+* _Station Eleven_ by Emily St. John Mandel
 
 ### [Albums](https://rateyourmusic.com/~shoeman27 "My music ratings page")
 
 * ~~Zola Jesus - _Okovi_~~
 * Joy Division - _Closer_
 * Washed Out - _Mister Mellow_
-* Danny Brown - _Atrocity Exhibition_
+* ~~Danny Brown - _Atrocity Exhibition_~~
 * Sebastien Tellier - _Politics_
-* Vince Staples - _Big Fish Theory_
+* ~~Vince Staples - _Big Fish Theory_~~
 * Jaymes Young - _Feel Something_
 * The Killers - _Wonderful Wonderful_
