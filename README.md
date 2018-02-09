@@ -13,7 +13,7 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * ~~_Anthem_ by Ayn Rand~~
 * _The Innovators_ by Walter Isaacson
 * _The Jungle_ by Upton Sinclair
-* _State of Wonder_ by Ann Patchett
+* ~~_State of Wonder_ by Ann Patchett~~
 * _Norweigan Wood_ by Haruki Murakami
 * _Tribe_ by Sebastian Junger
 * _Cat's Cradle_ by Kurt Vonnegut
@@ -41,7 +41,9 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * _Blind Willow, Sleeping Woman_ by Haruki Murakami
 * _The Elephant Vanishes_ by Haruki Murakami
 * _Dance Dance Dance_ by Haruki Murakami
-* _Bonfire_ by Krysten Ritter
+* **_1Q84_ by Haruki Murakami**
+* **_Bonfire_ by Krysten Ritter**
+* ~~_The Cellist of Sarajevo_ by Steven Galloway~~
 * _The Know-It-Alls: The Rise of Silicon Valley as a Political Powerhouse and Social Wrecking Ball_ by Noam Cohen
 * _Being Mortal_ by Atul Gawande
 * _The Handmaid's Tale_ by Margaret Atwood
