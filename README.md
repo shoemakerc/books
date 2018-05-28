@@ -7,7 +7,7 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * ~~_Commonwealth_ by Ann Patchett~~
 * ~~_My Year of Meat_ by Ruth Ozeki~~
 * ~~_Colorless Tsukuru Tazaki and His Years of Pilgrimage_ by Haruki Murakami~~
-* **_The Rest is Noise: Listening to the Twentieth Century_ by Alex Ross**
+* _The Rest is Noise: Listening to the Twentieth Century_ by Alex Ross
 * ~~_Moonlight_ by Michael Chabon~~
 * _The Defining Decade_ by Meg Jay, Ph.D
 * ~~_Anthem_ by Ayn Rand~~
@@ -16,11 +16,10 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * ~~_State of Wonder_ by Ann Patchett~~
 * _Norweigan Wood_ by Haruki Murakami
 * _Tribe_ by Sebastian Junger
-* _Cat's Cradle_ by Kurt Vonnegut
+* **_Cat's Cradle_ by Kurt Vonnegut**
 * _Stronger_ by Bauman and Witter
 * _The Big Short_ by Michael Lewis
 * _A Tale for the Time Being_ by Ruth Ozeki
-* _The Power of Habit_ by Charles Duhigg
 * _Deep Work: Rules for Focused Success in a Distracted World_ by Cal Newport
 * _A Heartbreaking Work of Staggering Genius_ by Dave Eggers
 * _11/22/63_ by Stephen King
@@ -41,8 +40,8 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * _Blind Willow, Sleeping Woman_ by Haruki Murakami
 * _The Elephant Vanishes_ by Haruki Murakami
 * _Dance Dance Dance_ by Haruki Murakami
-* **_1Q84_ by Haruki Murakami**
-* **_Bonfire_ by Krysten Ritter**
+* _1Q84_ by Haruki Murakami
+* ~~_Bonfire_ by Krysten Ritter~~
 * ~~_The Cellist of Sarajevo_ by Steven Galloway~~
 * _The Know-It-Alls: The Rise of Silicon Valley as a Political Powerhouse and Social Wrecking Ball_ by Noam Cohen
 * _Being Mortal_ by Atul Gawande
@@ -50,9 +49,19 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * _The Man in the High Castle_ by Philip K. Dick
 * _One More Thing: Stories and Other Stories_ by B.J. Novak
 * _Fates and Furies_ by Lauren Groff
-* **_Francis of the Filth_ by George Miller**
+* ~~_Francis of the Filth_ by George Miller~~
 * _Hiddensee_ by Gregory Maguire
 * _Station Eleven_ by Emily St. John Mandel
+* _Norse Mythology_ by Neil Gaiman
+* _Everybody Always_ by Bob Goff
+* _The World Atlas of Coffee_ by James Hoffmann
+* ~~_Tinkers_ by Paul Harding~~
+* **_Enon_ by Paul Harding**
+* _Crazy Rich Asians_ by Kevin Kwan
+* _The Zookeeper's Wife_ by Diane Ackerman
+
+
+~~Completed~~, **Currently reading**
 
 ### [Albums](https://rateyourmusic.com/~shoeman27 "My music ratings page")
 
