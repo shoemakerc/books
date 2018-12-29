@@ -16,7 +16,7 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * ~~_State of Wonder_ by Ann Patchett~~
 * _Norweigan Wood_ by Haruki Murakami
 * _Tribe_ by Sebastian Junger
-* **_Cat's Cradle_ by Kurt Vonnegut**
+* _Cat's Cradle_ by Kurt Vonnegut
 * _Stronger_ by Bauman and Witter
 * _The Big Short_ by Michael Lewis
 * _A Tale for the Time Being_ by Ruth Ozeki
@@ -40,7 +40,7 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * _Blind Willow, Sleeping Woman_ by Haruki Murakami
 * _The Elephant Vanishes_ by Haruki Murakami
 * _Dance Dance Dance_ by Haruki Murakami
-* _1Q84_ by Haruki Murakami
+* **_1Q84_ by Haruki Murakami**
 * ~~_Bonfire_ by Krysten Ritter~~
 * ~~_The Cellist of Sarajevo_ by Steven Galloway~~
 * _The Know-It-Alls: The Rise of Silicon Valley as a Political Powerhouse and Social Wrecking Ball_ by Noam Cohen
@@ -56,9 +56,11 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * _Everybody Always_ by Bob Goff
 * _The World Atlas of Coffee_ by James Hoffmann
 * ~~_Tinkers_ by Paul Harding~~
-* **_Enon_ by Paul Harding**
 * _Crazy Rich Asians_ by Kevin Kwan
 * _The Zookeeper's Wife_ by Diane Ackerman
+* ~~_Atonement_ by Ian McEwan~~
+* ~~_Black Klansman_ by Ron Stallworth~~
+* **_Judge Dee at Work_ by Robert van Gulik**
 
 
 ~~Completed~~, **Currently reading**
