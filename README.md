@@ -8,7 +8,7 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * ~~_My Year of Meat_ by Ruth Ozeki~~
 * ~~_Colorless Tsukuru Tazaki and His Years of Pilgrimage_ by Haruki Murakami~~
 * _The Rest is Noise: Listening to the Twentieth Century_ by Alex Ross
-* ~~_Moonlight_ by Michael Chabon~~
+* ~~_Moonglow_ by Michael Chabon~~
 * _The Defining Decade_ by Meg Jay, Ph.D
 * ~~_Anthem_ by Ayn Rand~~
 * _The Innovators_ by Walter Isaacson
@@ -52,15 +52,15 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * ~~_Francis of the Filth_ by George Miller~~
 * _Hiddensee_ by Gregory Maguire
 * _Station Eleven_ by Emily St. John Mandel
-* _Norse Mythology_ by Neil Gaiman
+* **_Norse Mythology_ by Neil Gaiman**
 * _Everybody Always_ by Bob Goff
-* _The World Atlas of Coffee_ by James Hoffmann
+* ~~_The World Atlas of Coffee_ by James Hoffmann~~
 * ~~_Tinkers_ by Paul Harding~~
 * _Crazy Rich Asians_ by Kevin Kwan
 * _The Zookeeper's Wife_ by Diane Ackerman
 * ~~_Atonement_ by Ian McEwan~~
 * ~~_Black Klansman_ by Ron Stallworth~~
-* **_Judge Dee at Work_ by Robert van Gulik**
+* ~~_Judge Dee at Work_ by Robert van Gulik~~
 
 
 ~~Completed~~, **Currently reading**
