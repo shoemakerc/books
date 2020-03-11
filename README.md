@@ -1,6 +1,6 @@
-# books-and-albums
+# books
 
-A list of books and albums that I'd like to read and listen to sometime in the future. For accountability purposes only.
+A list of books I'd like to read sometime in the future. For accountability purposes only.
 
 ### Books
 
@@ -12,7 +12,7 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * _The Defining Decade_ by Meg Jay, Ph.D
 * ~~_Anthem_ by Ayn Rand~~
 * _The Innovators_ by Walter Isaacson
-* _The Jungle_ by Upton Sinclair
+* ~~_The Jungle_ by Upton Sinclair~~
 * ~~_State of Wonder_ by Ann Patchett~~
 * _Norweigan Wood_ by Haruki Murakami
 * _Tribe_ by Sebastian Junger
@@ -40,10 +40,10 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * _Blind Willow, Sleeping Woman_ by Haruki Murakami
 * _The Elephant Vanishes_ by Haruki Murakami
 * _Dance Dance Dance_ by Haruki Murakami
-* **_1Q84_ by Haruki Murakami**
+* _1Q84_ by Haruki Murakami
 * ~~_Bonfire_ by Krysten Ritter~~
 * ~~_The Cellist of Sarajevo_ by Steven Galloway~~
-* _The Know-It-Alls: The Rise of Silicon Valley as a Political Powerhouse and Social Wrecking Ball_ by Noam Cohen
+* ~~_The Know-It-Alls: The Rise of Silicon Valley as a Political Powerhouse and Social Wrecking Ball_ by Noam Cohen~~
 * _Being Mortal_ by Atul Gawande
 * _The Handmaid's Tale_ by Margaret Atwood
 * _The Man in the High Castle_ by Philip K. Dick
@@ -52,7 +52,7 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * ~~_Francis of the Filth_ by George Miller~~
 * _Hiddensee_ by Gregory Maguire
 * _Station Eleven_ by Emily St. John Mandel
-* **_Norse Mythology_ by Neil Gaiman**
+* ~~_Norse Mythology_ by Neil Gaiman~~
 * _Everybody Always_ by Bob Goff
 * ~~_The World Atlas of Coffee_ by James Hoffmann~~
 * ~~_Tinkers_ by Paul Harding~~
@@ -61,17 +61,15 @@ A list of books and albums that I'd like to read and listen to sometime in the f
 * ~~_Atonement_ by Ian McEwan~~
 * ~~_Black Klansman_ by Ron Stallworth~~
 * ~~_Judge Dee at Work_ by Robert van Gulik~~
-
+* _Tao Te Ching_ by Laozi
+* **_Going to Pieces Without Falling Apart_ by Mark Epstein, M.D.**
+* _The Trauma of Everyday Life_ by Mark Epstein, M.D.
+* _Isonomia and the Origins of Philosophy_ by Kojin Karatani
+* **_The Way of Zen_ by Alan W. Watts**
+* _Freedom from the Known_ by Jiddu Krishnamurti
+* _Behave: The Biology of Humans at Our Best and Worst_ by Robert M. Sapolsky
+* _Steve Jobs_ by Walter Isaacson
+* _How to Be Alone: If You Want To, and Even If You Don't_ by Lane Moore
+* _The Art of War_ by Sun Tzu
 
 ~~Completed~~, **Currently reading**
-
-### [Albums](https://rateyourmusic.com/~shoeman27 "My music ratings page")
-
-* ~~Zola Jesus - _Okovi_~~
-* Joy Division - _Closer_
-* Washed Out - _Mister Mellow_
-* ~~Danny Brown - _Atrocity Exhibition_~~
-* Sebastien Tellier - _Politics_
-* ~~Vince Staples - _Big Fish Theory_~~
-* Jaymes Young - _Feel Something_
-* The Killers - _Wonderful Wonderful_
