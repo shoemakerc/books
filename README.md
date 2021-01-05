@@ -62,14 +62,18 @@ A list of books I'd like to read sometime in the future. For accountability purp
 * ~~_Black Klansman_ by Ron Stallworth~~
 * ~~_Judge Dee at Work_ by Robert van Gulik~~
 * _Tao Te Ching_ by Laozi
-* **_Going to Pieces Without Falling Apart_ by Mark Epstein, M.D.**
+* ~~_Going to Pieces Without Falling Apart_ by Mark Epstein, M.D~~
 * _The Trauma of Everyday Life_ by Mark Epstein, M.D.
 * _Isonomia and the Origins of Philosophy_ by Kojin Karatani
-* **_The Way of Zen_ by Alan W. Watts**
-* _Freedom from the Known_ by Jiddu Krishnamurti
+* ~~_The Way of Zen_ by Alan W. Watts~~
+* ~~_Freedom from the Known_ by Jiddu Krishnamurti~~
 * _Behave: The Biology of Humans at Our Best and Worst_ by Robert M. Sapolsky
 * _Steve Jobs_ by Walter Isaacson
 * _How to Be Alone: If You Want To, and Even If You Don't_ by Lane Moore
 * _The Art of War_ by Sun Tzu
+* ~~_The Book: On the Taboo Against Knowing Who You Are_~~ by Alan W. Watts
+* **_The Wisdom of Insecurity: A Message for an Age of Anxiety_ by Alan W. Watts**
+* _War and Peace_ by Leo Tolstoy
+* **_The Culture of Narcissism: American Life in an Age of Diminishing Expectations_ by Christopher Lasch**
 
 ~~Completed~~, **Currently reading**
