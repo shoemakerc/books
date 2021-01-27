@@ -71,9 +71,29 @@ A list of books I'd like to read sometime in the future. For accountability purp
 * _Steve Jobs_ by Walter Isaacson
 * _How to Be Alone: If You Want To, and Even If You Don't_ by Lane Moore
 * _The Art of War_ by Sun Tzu
-* ~~_The Book: On the Taboo Against Knowing Who You Are_~~ by Alan W. Watts
-* **_The Wisdom of Insecurity: A Message for an Age of Anxiety_ by Alan W. Watts**
-* _War and Peace_ by Leo Tolstoy
-* **_The Culture of Narcissism: American Life in an Age of Diminishing Expectations_ by Christopher Lasch**
+* ~~_The Book: On the Taboo Against Knowing Who You Are_ by Alan W. Watts~~
+* _The Wisdom of Insecurity: A Message for an Age of Anxiety_ by Alan W. Watts
+* **_War and Peace_ by Leo Tolstoy**
+* ~~_The Culture of Narcissism: American Life in an Age of Diminishing Expectations_ by Christopher Lasch~~
+* ~~_Beethoven: The Composer as Hero_ by Philippe A. Autexier
+* ~~_The Master of Ballantrae_ by Robert L. Stevenson~~
+* _The Bhagavad Gita_ translated by Laurie L. Patton
+* **_The Prince_ by Niccolò Machiavelli**
+* _Inferno_ by Dante Alighieri
+* _Tao: The Watercourse Way_ by Alan W. Watts
+* _In the Buddha's Words: An Anthology of Discourses from the Pali Canon_ by Bhikkhu Bodhi
+* _Hillbilly Elegy: A Memoir of a Family and Culture in Crisis_ by J.D. Vance
+* _Animal Farm_ by George Orwell (reread)
+* _Small World: An Academic Romance_ by David Lodge
+* _Therapy_ by David Lodge
+* _Candide_ by Voltaire
+* _The World as Will and Representation_ by Arthur Schopenhauer
+* _The History of Alexander_ by Quintus Curtius Rufus
+* _The Prince and the Pauper_ by Mark Twain
+* _The Cossacks_ by Leo Tolstoy
+* _Man's Search for Meaning_ by Victor Frankl
+* _Survival in Auschwitz_ by Primo Levi
+* _Utopia_ by Sir Thomas More
+* _Erasmus_ by James D. Tracy
 
 ~~Completed~~, **Currently reading**
