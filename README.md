@@ -15,7 +15,7 @@ A list of books I'd like to read sometime in the future. For accountability purp
 * ~~_The Jungle_ by Upton Sinclair~~
 * ~~_State of Wonder_ by Ann Patchett~~
 * _Norweigan Wood_ by Haruki Murakami
-* _Tribe_ by Sebastian Junger
+* ~~_Tribe_ by Sebastian Junger~~
 * _Cat's Cradle_ by Kurt Vonnegut
 * _Stronger_ by Bauman and Witter
 * _The Big Short_ by Michael Lewis
@@ -45,9 +45,7 @@ A list of books I'd like to read sometime in the future. For accountability purp
 * ~~_The Cellist of Sarajevo_ by Steven Galloway~~
 * ~~_The Know-It-Alls: The Rise of Silicon Valley as a Political Powerhouse and Social Wrecking Ball_ by Noam Cohen~~
 * _Being Mortal_ by Atul Gawande
-* _The Handmaid's Tale_ by Margaret Atwood
 * _The Man in the High Castle_ by Philip K. Dick
-* _One More Thing: Stories and Other Stories_ by B.J. Novak
 * _Fates and Furies_ by Lauren Groff
 * ~~_Francis of the Filth_ by George Miller~~
 * _Hiddensee_ by Gregory Maguire
@@ -61,7 +59,7 @@ A list of books I'd like to read sometime in the future. For accountability purp
 * ~~_Atonement_ by Ian McEwan~~
 * ~~_Black Klansman_ by Ron Stallworth~~
 * ~~_Judge Dee at Work_ by Robert van Gulik~~
-* _Tao Te Ching_ by Laozi
+* _Tao Te Ching_ by Laozi (reread)
 * ~~_Going to Pieces Without Falling Apart_ by Mark Epstein, M.D~~
 * _The Trauma of Everyday Life_ by Mark Epstein, M.D.
 * _Isonomia and the Origins of Philosophy_ by Kojin Karatani
@@ -72,8 +70,9 @@ A list of books I'd like to read sometime in the future. For accountability purp
 * _How to Be Alone: If You Want To, and Even If You Don't_ by Lane Moore
 * _The Art of War_ by Sun Tzu
 * ~~_The Book: On the Taboo Against Knowing Who You Are_ by Alan W. Watts~~
+* ~~_The Black Swan: The Impact of the Highly Improbable_ by Nassim Nicholas Taleb~~
 * _The Wisdom of Insecurity: A Message for an Age of Anxiety_ by Alan W. Watts
-* **_War and Peace_ by Leo Tolstoy**
+* _War and Peace_ by Leo Tolstoy
 * ~~_The Culture of Narcissism: American Life in an Age of Diminishing Expectations_ by Christopher Lasch~~
 * ~~_Beethoven: The Composer as Hero_ by Philippe A. Autexier~~
 * ~~_The Master of Ballantrae_ by Robert L. Stevenson~~
@@ -81,12 +80,12 @@ A list of books I'd like to read sometime in the future. For accountability purp
 * ~~_The Prince_ by Niccolò Machiavelli~~
 * _Inferno_ by Dante Alighieri
 * _Tao: The Watercourse Way_ by Alan W. Watts
-* **_In the Buddha's Words: An Anthology of Discourses from the Pali Canon_ by Bhikkhu Bodhi**
+* _In the Buddha's Words: An Anthology of Discourses from the Pali Canon_ by Bhikkhu Bodhi
 * ~~_Hillbilly Elegy: A Memoir of a Family and Culture in Crisis_ by J.D. Vance~~
 * ~~_Animal Farm_ by George Orwell (reread)~~
 * _Small World: An Academic Romance_ by David Lodge
 * _Therapy_ by David Lodge
-* **_Candide_ by Voltaire**
+* ~~_Candide_ by Voltaire~~
 * _The World as Will and Representation_ by Arthur Schopenhauer
 * _The History of Alexander_ by Quintus Curtius Rufus
 * _The Prince and the Pauper_ by Mark Twain
@@ -94,6 +93,24 @@ A list of books I'd like to read sometime in the future. For accountability purp
 * _Man's Search for Meaning_ by Victor Frankl
 * _Survival in Auschwitz_ by Primo Levi
 * ~~_Utopia_ by Sir Thomas More~~
+* ~~_The Art of Loving_ by Erich Fromm~~
 * _La Princesse de Clèves_ by Madame de La Fayette
+* **_Think on These Things_ by Jiddu Krishnamurti**
+* ~~_The Plague_ by Albert Camus~~
+* **_The Stranger_ by Albert Camus**
+* ~~_Capitalist Realism: Is There No Alternative?_ by Mark Fisher~~
+* **_Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures_ by Mark Fisher**
+* _Antifragile: Things That Gain From Disorder_ by Nassim Nicholas Taleb
+* _Bullshit Jobs_ by David Graeber
+* _Debt: The First 5000 Years_ by David Graeber
+* _Digital Minimalism: Choosing a Focused Life in a Noisy World_ by Cal Newport
+* _Sexual Personae: Art and Decadence from Nefertiti to Emily Dickinson_ by Camille Paglia
+* _The Brothers Karamazov_ by Fyodor Dostoevsky
+* _The Gulag Archipelago_ by Aleksandr Solzhenitsyn
+* _Escape from Freedom_ by Erich Fromm
+* _The Burnout Society_ by Byung-Chul Han
+* _The Flowers of Evil_ by Charles Baudelaire
+* _In Cold Blood_ by Truman Capote
+* 
 
 ~~Completed~~, **Currently reading**
