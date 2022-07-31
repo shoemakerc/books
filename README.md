@@ -59,7 +59,7 @@ A list of books I'd like to read sometime in the future. For accountability purp
 * ~~_Atonement_ by Ian McEwan~~
 * ~~_Black Klansman_ by Ron Stallworth~~
 * ~~_Judge Dee at Work_ by Robert van Gulik~~
-* _Tao Te Ching_ by Laozi (reread)
+* _Tao Te Ching_ translated by Red Pine
 * ~~_Going to Pieces Without Falling Apart_ by Mark Epstein, M.D~~
 * _The Trauma of Everyday Life_ by Mark Epstein, M.D.
 * _Isonomia and the Origins of Philosophy_ by Kojin Karatani
@@ -71,7 +71,7 @@ A list of books I'd like to read sometime in the future. For accountability purp
 * _The Art of War_ by Sun Tzu
 * ~~_The Book: On the Taboo Against Knowing Who You Are_ by Alan W. Watts~~
 * ~~_The Black Swan: The Impact of the Highly Improbable_ by Nassim Nicholas Taleb~~
-* _The Wisdom of Insecurity: A Message for an Age of Anxiety_ by Alan W. Watts
+* ~~_The Wisdom of Insecurity: A Message for an Age of Anxiety_ by Alan W. Watts~~
 * _War and Peace_ by Leo Tolstoy
 * ~~_The Culture of Narcissism: American Life in an Age of Diminishing Expectations_ by Christopher Lasch~~
 * ~~_Beethoven: The Composer as Hero_ by Philippe A. Autexier~~
@@ -90,27 +90,49 @@ A list of books I'd like to read sometime in the future. For accountability purp
 * _The History of Alexander_ by Quintus Curtius Rufus
 * _The Prince and the Pauper_ by Mark Twain
 * _The Cossacks_ by Leo Tolstoy
-* _Man's Search for Meaning_ by Victor Frankl
+* ~~_Man's Search for Meaning_ by Victor Frankl~~
 * _Survival in Auschwitz_ by Primo Levi
 * ~~_Utopia_ by Sir Thomas More~~
 * ~~_The Art of Loving_ by Erich Fromm~~
 * _La Princesse de Clèves_ by Madame de La Fayette
-* **_Think on These Things_ by Jiddu Krishnamurti**
+* ~~_Think on These Things_ by Jiddu Krishnamurti~~
 * ~~_The Plague_ by Albert Camus~~
-* **_The Stranger_ by Albert Camus**
+* ~~_The Stranger_ by Albert Camus~~
 * ~~_Capitalist Realism: Is There No Alternative?_ by Mark Fisher~~
-* **_Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures_ by Mark Fisher**
+* ~~_Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures_ by Mark Fisher~~
 * _Antifragile: Things That Gain From Disorder_ by Nassim Nicholas Taleb
 * _Bullshit Jobs_ by David Graeber
-* _Debt: The First 5000 Years_ by David Graeber
+* **_Debt: The First 5000 Years_ by David Graeber**
 * _Digital Minimalism: Choosing a Focused Life in a Noisy World_ by Cal Newport
 * _Sexual Personae: Art and Decadence from Nefertiti to Emily Dickinson_ by Camille Paglia
 * _The Brothers Karamazov_ by Fyodor Dostoevsky
 * _The Gulag Archipelago_ by Aleksandr Solzhenitsyn
 * _Escape from Freedom_ by Erich Fromm
+* ~~_K-Punk: The Collected and Unpublished Writings of Mark Fisher_ by Mark Fisher~~
 * _The Burnout Society_ by Byung-Chul Han
 * _The Flowers of Evil_ by Charles Baudelaire
+* ~~_The Power of Now_ by Eckhart Tolle~~
+* ~~_The Prophet_ by Kahlil Gibran~~
 * _In Cold Blood_ by Truman Capote
-* 
+* ~~_How to Fail at Almost Everything and Still Win Big_ by Scott Adams~~
+* ~~_The Art of Solitude_ by Stephen Batchelor~~
+* **The Art of Living: Peace and Freedom in the Here and Now by Thich Nhat Hanh**
+* _Dune_ series by Frank Herbert
+  * ~~_Dune_~~
+  * ~~_Dune Messiah_~~
+  * _Children of Dune_~~
+  * _God Emperor of Dune_
+  * _Heretics of Dune_
+  * _Chapterhouse: Dune_
+  * "The Road to Dune" 
+* _The Unbearable Lightness of Being_ by Milan Kundera
+* _The Picture of Dorian Gray_ by Oscar Wilde
+* _The Satanic Verses_ by Salman Rushdie
+* **_The Design of Everyday Things_ by Don Norman**
+* _Flow_ by Mihaly Csikszentmihalyi
+* _The Marriage of Heaven and Hell_ by William Blake
+* **_The First and Last Freedom_ by Jiddu Krishnamurti**
+* _The Symposium_ by Plato
+* _The Temple of the Golden Pavilion_ by Yukio Mishima
 
 ~~Completed~~, **Currently reading**
