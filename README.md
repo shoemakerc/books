@@ -15,15 +15,23 @@ A list of books I've read, am reading at the moment, or would like to read somet
 * _The Fall_ by Albert Camus
 * ~~_The Plague_ by Albert Camus~~
 * ~~_The Stranger_ by Albert Camus~~
+* _The Amazing Adventures of Kavalier & Clay_ by Michael Chabon
 * ~~_Moonglow_ by Michael Chabon~~
 * _Telegraph Avenue_ by Michael Chabon (reread)
+* _The Yiddish Policemen's Union_ by Michael Chabon
 * _La Princesse de Clèves_ by Madame de La Fayette
-* _The Man in the High Castle_ by Philip K. Dick
+* _Do Androids Dream of Electric Sheep?_ by Philip K. Dick
+* **_The Man in the High Castle_ by Philip K. Dick**
 * _The Brothers Karamazov_ by Fyodor Dostoevsky
 * _Freedom_ by Jonathan Franzen
 * ~~_Norse Mythology_ by Neil Gaiman~~
 * ~~_The Cellist of Sarajevo_ by Steven Galloway~~
 * _Fates and Furies_ by Lauren Groff
+* ~~_The Nightingale_ by Kristin Hannah~~
+* **_Enon_ by Paul Harding**
+* _This Other Eden_ by Paul Harding
+* ~~_Tinkers_ by Paul Harding~~
+* ~~_The Sun Also Rises_ by Ernest Hemingway~~
 * _Dune_ series by Frank Herbert
   * ~~_Dune_~~
   * ~~_Dune Messiah_~~
@@ -32,12 +40,12 @@ A list of books I've read, am reading at the moment, or would like to read somet
   * _Heretics of Dune_
   * _Chapterhouse: Dune_
   * "The Road to Dune" 
-* ~~_The Nightingale_ by Kristin Hannah~~
-* _This Other Eden_ by Paul Harding
-* ~~_Tinkers_ by Paul Harding~~
-* ~~_The Sun Also Rises_ by Ernest Hemingway~~
+* _Siddhartha_ by Hermann Hesse (reread)
+* **_Steppenwolf_ by Hermann Hesse**
 * _High Fidelity_ by Nick Hornby
 * _Brave New World_ by Aldous Huxley
+* **_Klara and the Sun_ by Kazuo Ishiguro**
+* _Never Let Me Go_ by Kazuo Ishiguro
 * _On the Road_ by Jack Kerouac
 * _11/22/63_ by Stephen King
 * _The Unbearable Lightness of Being_ by Milan Kundera
@@ -55,14 +63,16 @@ A list of books I've read, am reading at the moment, or would like to read somet
 * _Confessions of a Mask_ by Yukio Mishima
 * _The Temple of the Golden Pavilion_ by Yukio Mishima
 * ~~_Utopia_ by Sir Thomas More~~
-* **_My Year of Rest and Relaxation_ by Ottessa Moshfegh**
-* _After Dark_ by Haruki Murakami
+* _Eileen_ by Ottessa Moshfegh
+* ~~_My Year of Rest and Relaxation_ by Ottessa Moshfegh~~
+* ~~_After Dark_ by Haruki Murakami~~
 * _After the Quake_ by Haruki Murakami
 * _Blind Willow, Sleeping Woman_ by Haruki Murakami
 * ~~_Colorless Tsukuru Tazaki and His Years of Pilgrimage_ by Haruki Murakami~~
 * _Dance Dance Dance_ by Haruki Murakami
 * _The Elephant Vanishes_ by Haruki Murakami
 * ~~_Kafka on the Shore_ by Haruki Murakami~~
+* _Killing Commendatore_ by Haruki Murakami
 * _Norweigan Wood_ by Haruki Murakami
 * ~~_Animal Farm_ by George Orwell (reread)~~
 * ~~_My Year of Meat_ by Ruth Ozeki~~
@@ -122,7 +132,7 @@ A list of books I've read, am reading at the moment, or would like to read somet
 * _The Palliative Society: Pain Today_ by Byung-Chul Han
 * _The Art of Living: Peace and Freedom in the Here and Now_ by Thich Nhat Hanh
 * ~~_The Heart of Buddha's Teaching_ by Thich Nhat Hanh~~
-* _Empire of Illusion: The End of Literacy and the Triumph of the Spectacle_ by Chris Hedges
+* ~~_Empire of Illusion: The End of Literacy and the Triumph of the Spectacle_ by Chris Hedges~~
 * ~~_The World Atlas of Coffee_ by James Hoffmann~~
 * _The Innovators_ by Walter Isaacson
 * _Steve Jobs_ by Walter Isaacson
@@ -168,15 +178,19 @@ A list of books I've read, am reading at the moment, or would like to read somet
 
 * ~~_The Myth of Sisyphus_ by Albert Camus~~
 * _The Rebel_ by Albert Camus
+* **_Sun and Steel_ by Yukio Mishima**
 * ~~"Why do Men Stupefy Themselves?" by Leo Tolstoy~~
 
 ## Manga
 
 * _Eyeshield 21_ by Riichiro Inagaki
 * _Slam Dunk_ by Takehiko Inoue
+* _Vagabond_ by Takehiko Inoue
 * _Golden Kamuy_ by Satoru Noda
 * _Akira_ by Katsuhiro Otomo
-* _Vagabond_ by Takehiko Inoue
-* _MW_ by Osamu Tezuka
-* _Vinland Saga_ by Makoto Yukimura
+* ~~_MW_ by Osamu Tezuka~~
+* _Black Jack_ by Osamu Tezuka
+* _Phoenix_ by Osamu Tezuka
 * _Pluto_ by Naoki Urasawa 
+* _Planetes_ by Makoto Yukimura
+* _Vinland Saga_ by Makoto Yukimura
